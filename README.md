@@ -1,6 +1,6 @@
 # Caderno Temático — Migração SAP ECC para S/4HANA
 
-Estudo orientado por Inteligência Artificial sobre **conversão de sistemas SAP na abordagem brownfield**, desenvolvido como projeto prático do curso de Dados e IA. O repositório reúne curadoria de fontes oficiais, experimentos de prompt, análise crítica das respostas e um miniguia para revisão do tema.
+Estudo orientado sobre **conversão de sistemas SAP na abordagem brownfield**, desenvolvido como projeto prático do curso de Dados e IA. O repositório reúne curadoria de fontes oficiais, experimentos de prompt, análise crítica das respostas e um miniguia para revisão do tema.
 
 ![Capa do caderno temático](images/capa-caderno.png)
 
